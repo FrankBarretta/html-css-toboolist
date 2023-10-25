@@ -1,0 +1,79 @@
+body {
+    background-color: #F6F8F9;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.margin-main {
+    margin: 5% 10%;
+    padding: 2% 5%;
+}
+
+.button_style {
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.button_style:hover {
+    background-color: #14AAF5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2)
+}
+
+.padding-y {
+    padding: 2% 0;
+}
+
+.btn_blue {
+    border-radius: 5px;
+    border: 0px solid black;
+    background-color: #09A9ED;
+    color: white;
+}
+
+.btn_violet {
+    border-radius: 5px;
+    border: 0px solid black;
+    background-color: #AB5DE6;
+    color: white;
+}
+
+.btn_blue-green {
+    border-radius: 5px;
+    border: 0px solid black;
+    background-color: #2CC6AB;
+    color: white;
+}
+
+.btn_orange {
+    border-radius: 5px;
+    border: 0px solid black;
+    background-color: #FF9B00;
+    color: white;
+}
+
+.btn_lilla {
+    border-radius: 5px;
+    border: 0px solid black;
+    background-color: #EC4A9D;
+    color: white;
+}
+
+.btn_green {
+    border-radius: 5px;
+    border: 0px solid black;
+    background-color: #A3D116;
+    color: white;
+}
+
+.border-radius-uncheck {
+    border-radius: 100%;
+    border: 1px solid red;
+    color: red;
+}
+
